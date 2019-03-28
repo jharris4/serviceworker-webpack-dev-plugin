@@ -1,13 +1,12 @@
 {
   "name": "serviceworker-webpack-dev-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simplifies creation and development of a service worker to serve your webpack bundles",
   "main": "src/index.js",
   "files": [
     "src"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://www.github.com/jharris4/serviceworker-webpack-dev-plugin.git"
