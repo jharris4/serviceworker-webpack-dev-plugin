@@ -1,7 +1,7 @@
 // @flow weak
 
-import path from 'path'
-import fs from 'fs'
+const path = require('path')
+const fs = require('fs')
 
 module.exports = function defaultExport() {}
 
